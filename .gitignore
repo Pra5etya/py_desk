@@ -1,0 +1,6 @@
+# py env
+my_env/
+__pycache__/
+
+# database
+sample.db
