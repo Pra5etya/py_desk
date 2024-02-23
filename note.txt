@@ -1,0 +1,15 @@
+KASUS ENKRIPSI SATU ARAH:
+1. Enkripsi Password
+2. Enkripsi Nomor Kartu Kredit
+3. Enkripsi Informasi Identitas Pribadi
+4. Enkripsi Data Medis
+5. Enkripsi Kunci Rahasia
+6. Enkripsi Data Konfigurasi
+7. Enkripsi Token Akses
+8. Enkripsi Data Keuangan
+9. Enkripsi Kunci API
+
+REKOMENDASI ENKRIPSI SATU ARAH: 
+1. bcrypt (Standard)
+2. Argon2 (New)
+3. Scrypt (Old)

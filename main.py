@@ -1,10 +1,8 @@
 import tkinter as tk
-from view import View
+from view import mainView
 
 def main():
-    root = tk.Tk()
-    app = View(root)
-    root.mainloop()
+    mainView().mainloop()
 
 if __name__ == "__main__":
     main()
